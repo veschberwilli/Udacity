@@ -1,0 +1,8 @@
+prefix=/lhome/micmink/fad/repos/github/udacity_robotics/chapter5_mapping_and_slam/map_my_world/catkin_ws/install
+
+Name: fake_localization
+Description: Description of fake_localization
+Version: 1.17.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs nav_msgs roscpp rospy

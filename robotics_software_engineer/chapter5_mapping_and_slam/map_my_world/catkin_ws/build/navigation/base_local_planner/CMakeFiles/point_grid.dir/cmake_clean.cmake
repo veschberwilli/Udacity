@@ -1,0 +1,11 @@
+file(REMOVE_RECURSE
+  "/lhome/micmink/fad/repos/github/udacity_robotics/chapter5_mapping_and_slam/map_my_world/catkin_ws/devel/lib/base_local_planner/point_grid"
+  "/lhome/micmink/fad/repos/github/udacity_robotics/chapter5_mapping_and_slam/map_my_world/catkin_ws/devel/lib/base_local_planner/point_grid.pdb"
+  "CMakeFiles/point_grid.dir/src/point_grid_node.cpp.o"
+  "CMakeFiles/point_grid.dir/src/point_grid_node.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/point_grid.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

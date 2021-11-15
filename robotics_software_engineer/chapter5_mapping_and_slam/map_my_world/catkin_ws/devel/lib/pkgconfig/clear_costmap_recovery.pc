@@ -1,0 +1,8 @@
+prefix=/lhome/micmink/fad/repos/github/udacity_robotics/chapter5_mapping_and_slam/map_my_world/catkin_ws/devel
+
+Name: clear_costmap_recovery
+Description: Description of clear_costmap_recovery
+Version: 1.17.1
+Cflags: -I/lhome/micmink/fad/repos/github/udacity_robotics/chapter5_mapping_and_slam/map_my_world/catkin_ws/src/navigation/clear_costmap_recovery/include
+Libs: -L${prefix}/lib -lclear_costmap_recovery
+Requires: costmap_2d nav_core pluginlib roscpp tf2_ros

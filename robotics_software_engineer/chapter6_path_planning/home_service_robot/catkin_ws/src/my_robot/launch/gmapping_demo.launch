@@ -1,0 +1,10 @@
+<launch>
+  <!-- Gmapping -->
+  <!-- rosrun gmapping slam_gmapping scan:=base_scan -->
+  <node pkg="gmapping" type="slam_gmapping" name="gmapping" output="screen">
+    <!-- <remap from="my_robot/laser/scan" to="scan" /> -->
+    <remap from="/scan" to="/my_robot/laser/scan" />
+    <param name="base_frame" value="odom"/>
+   </node>
+
+</launch>

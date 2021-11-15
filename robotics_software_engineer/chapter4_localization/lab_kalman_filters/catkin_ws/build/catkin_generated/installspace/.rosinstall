@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /lhome/micmink/fad/repos/github/udacity_robotics/localization/lab_kalman_filters/catkin_ws/install/setup.sh

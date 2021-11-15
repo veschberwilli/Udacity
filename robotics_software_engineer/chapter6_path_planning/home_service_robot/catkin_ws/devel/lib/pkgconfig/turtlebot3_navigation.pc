@@ -1,0 +1,8 @@
+prefix=/lhome/micmink/fad/repos/github/udacity_robotics/chapter6_path_planning/home_service_robot/catkin_ws/devel
+
+Name: turtlebot3_navigation
+Description: Description of turtlebot3_navigation
+Version: 1.2.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

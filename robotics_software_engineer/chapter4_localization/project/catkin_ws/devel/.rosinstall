@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /lhome/micmink/fad/repos/github/udacity_robotics/localization/project/catkin_ws/devel/setup.sh

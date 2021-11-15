@@ -1,0 +1,8 @@
+prefix=/lhome/micmink/fad/repos/github/udacity_robotics/chapter5_mapping_and_slam/map_my_world/catkin_ws/devel
+
+Name: map_server
+Description: Description of map_server
+Version: 1.17.1
+Cflags: -I/lhome/micmink/fad/repos/github/udacity_robotics/chapter5_mapping_and_slam/map_my_world/catkin_ws/src/navigation/map_server/include
+Libs: -L${prefix}/lib -lmap_server_image_loader
+Requires: roscpp nav_msgs tf2

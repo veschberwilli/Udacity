@@ -1,0 +1,8 @@
+prefix=/lhome/micmink/fad/repos/github/udacity_robotics/chapter5_mapping_and_slam/map_my_world/catkin_ws/devel
+
+Name: global_planner
+Description: Description of global_planner
+Version: 1.17.1
+Cflags: -I/lhome/micmink/fad/repos/github/udacity_robotics/chapter5_mapping_and_slam/map_my_world/catkin_ws/devel/include -I/lhome/micmink/fad/repos/github/udacity_robotics/chapter5_mapping_and_slam/map_my_world/catkin_ws/src/navigation/global_planner/include
+Libs: -L${prefix}/lib -lglobal_planner
+Requires: costmap_2d dynamic_reconfigure geometry_msgs nav_core navfn nav_msgs pluginlib roscpp tf2_ros

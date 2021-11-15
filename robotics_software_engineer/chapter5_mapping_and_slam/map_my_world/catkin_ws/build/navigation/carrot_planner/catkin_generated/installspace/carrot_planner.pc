@@ -1,0 +1,8 @@
+prefix=/lhome/micmink/fad/repos/github/udacity_robotics/chapter5_mapping_and_slam/map_my_world/catkin_ws/install
+
+Name: carrot_planner
+Description: Description of carrot_planner
+Version: 1.17.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lcarrot_planner
+Requires: angles base_local_planner costmap_2d nav_core pluginlib roscpp tf2 tf2_ros
