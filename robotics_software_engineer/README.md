@@ -167,25 +167,3 @@ https://towardsdatascience.com/reinforcement-learning-rl-101-with-python-e1aa0d3
 http://wiki.ros.org/navigation/Tutorials/SendingSimpleGoals
 
 http://wiki.ros.org/rviz/Tutorials/Markers%3A%20Basic%20Shapes
-
-
-# Warning
-
-warning: adding embedded git repository: robotics_software_engineer/chapter4_localization/lab_kalman_filters/catkin_ws/src/odom_to_trajectory
-warning: adding embedded git repository: robotics_software_engineer/chapter4_localization/lab_kalman_filters/catkin_ws/src/robot_pose_ekf
-warning: adding embedded git repository: robotics_software_engineer/chapter4_localization/lab_kalman_filters/catkin_ws/src/turtlebot3
-warning: adding embedded git repository: robotics_software_engineer/chapter4_localization/lab_kalman_filters/catkin_ws/src/turtlebot3_simulations
-warning: adding embedded git repository: robotics_software_engineer/chapter4_localization/project/catkin_ws/src/navigation
-warning: adding embedded git repository: robotics_software_engineer/chapter4_localization/project/catkin_ws/src/pgm_map_creator
-warning: adding embedded git repository: robotics_software_engineer/chapter4_localization/project/catkin_ws/src/teleop_twist_keyboard
-warning: adding embedded git repository: robotics_software_engineer/chapter5_mapping_and_slam/RoboND-OccupancyGridMappingAlgorithm
-warning: adding embedded git repository: robotics_software_engineer/chapter5_mapping_and_slam/grid_based_fast_slam/catkin_ws/src/slam_gmapping
-warning: adding embedded git repository: robotics_software_engineer/chapter5_mapping_and_slam/grid_based_fast_slam/catkin_ws/src/turtlebot3
-warning: adding embedded git repository: robotics_software_engineer/chapter5_mapping_and_slam/grid_based_fast_slam/catkin_ws/src/turtlebot3_simulations
-warning: adding embedded git repository: robotics_software_engineer/chapter5_mapping_and_slam/map_my_world/catkin_ws/src/navigation
-warning: adding embedded git repository: robotics_software_engineer/chapter5_mapping_and_slam/map_my_world/catkin_ws/src/pgm_map_creator
-warning: adding embedded git repository: robotics_software_engineer/chapter5_mapping_and_slam/map_my_world/catkin_ws/src/rtabmap_ros
-warning: adding embedded git repository: robotics_software_engineer/chapter5_mapping_and_slam/map_my_world/catkin_ws/src/teleop_twist_keyboard
-warning: adding embedded git repository: robotics_software_engineer/chapter6_path_planning/lab_path_planning/RoboND-A-Visualization
-warning: adding embedded git repository: robotics_software_engineer/project_submissions/project_4/rtabmap_ros
-
